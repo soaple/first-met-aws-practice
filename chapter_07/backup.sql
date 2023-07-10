@@ -559,7 +559,7 @@ CREATE TABLE `wp_users` (
 LOCK TABLES `wp_users` WRITE;
 /*!40000 ALTER TABLE `wp_users` DISABLE KEYS */;
 INSERT INTO `wp_users` VALUES
-(1,'user','$P$BANfdCSwNXYQwW5FfcKbYMzi.82UcF/','user','user@example.com','http://127.0.0.1','2023-07-08 07:29:10','',0,'user');
+(1,'user','81dc9bdb52d04dc20036dbd8313ed055','user','user@example.com','http://127.0.0.1','2023-07-08 07:29:10','',0,'user');
 /*!40000 ALTER TABLE `wp_users` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
